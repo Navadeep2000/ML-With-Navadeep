@@ -12,9 +12,9 @@ When we face a problem that involves lots of complex math every time we run a ca
 It learns from data and figures out how to handle these calculations on its own. 
 This means we can focus on the creative and problem-solving aspects of coding, making our work easier and more efficient.
 
-In a nutshell, <span style="color:Blue"> *"Machine Learning"* </span> is like having a coding partner that handles the math-heavy tasks, freeing us up to do what we do best: creating and solving problems with code.
+In a nutshell, *"Machine Learning"* is like having a coding partner that handles the math-heavy tasks, freeing us up to do what we do best: creating and solving problems with code.
 
-### 👇👇👇 <span style="color:red"> Here is the definition you want </span>👇👇👇
+### 👇👇👇 Here is the definition you want👇👇👇
 
 *Machine Learning (ML)* works by allowing computer systems to learn and make decisions or predictions from data without being explicitly programmed with specific instructions for every possible scenario. 
 
