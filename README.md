@@ -3,7 +3,7 @@
 
 Welcome to the world of Machine Learning, where we transform data into magical insights and predictive wonders! 🌟
 
-If you've stumbled upon this repository, you're in for a treat. We believe that Machine Learning can be both powerful and playful, so prepare to embark on a journey filled with code, data, and a sprinkle of whimsy! 🌈
+If you've stumbled upon this repository, you're in for a treat. We believe that Machine Learning can be both powerful and playful, so prepare to embark on a journey filled with code, data, and a sprinkle of whimsy!🌈
 
 ## 🎮 Let's Play with Data
 
