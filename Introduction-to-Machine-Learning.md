@@ -14,7 +14,7 @@ This means we can focus on the creative and problem-solving aspects of coding, m
 
 In a nutshell, *"Machine Learning"* is like having a coding partner that handles the math-heavy tasks, freeing us up to do what we do best: creating and solving problems with code.
 
-### 👇👇👇 Here is the definition you want👇👇👇
+### 👇👇👇Here is the definition you want👇👇👇
 
 *Machine Learning (ML)* works by allowing computer systems to learn and make decisions or predictions from data without being explicitly programmed with specific instructions for every possible scenario. 
 
